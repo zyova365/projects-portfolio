@@ -1,0 +1,111 @@
+img {
+    border-radius: 35px;
+    height: 150;
+    margin-left: 720;
+    margin-top: 120;
+    
+}
+
+body {
+    background-color: rgb(76, 194, 141)
+}
+
+.Youtube-button {
+    border-radius: 30px;
+    background-color: rgb(127, 229, 255);
+    box-shadow: 1px 3px;
+    height: 30px;
+    width: 115;
+    position: absolute;
+    top: 350px;
+    left: 670px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.Youtube-button:hover {
+    opacity: 0.8;
+}
+
+.TikTock-button {
+    border-radius: 30px;
+    background-color: rgb(127, 229, 255);
+    box-shadow: 1px 3px;
+    height: 30px;
+    width: 115;
+    position: absolute;
+    top: 350;
+    left: 800;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.TikTock-button:hover {
+    opacity: 0.8;
+}
+
+
+
+.etc {
+    border-radius: 30px;
+    background-color: rgb(127, 229, 255);
+    box-shadow: 1px 3px;
+    height: 30px;
+    width: 115;
+    position: absolute;
+    top: 400;
+    left: 800;
+    cursor: pointer;
+    transition: opacity 0.15s;
+
+}
+.etc:hover {
+    opacity: 0.8;
+}
+
+
+.f {
+    border-radius: 30px;
+    background-color: rgb(127, 229, 255);
+    box-shadow: 1px 3px;
+    height: 30px;
+    width: 115;
+    position: absolute;
+    top: 400;
+    left: 670;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.f:hover {
+    opacity: 0.8;
+}
+
+h1 {
+    position: absolute;
+    top: 250;
+    left: 720;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    position: absolute;
+    top: 295;
+    left: 640;
+}
+
+.cats {
+    position: absolute;
+    top: 430;
+    left: 670;
+    
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background: black;
+  width: 25%;
+  position: absolute;
+  top: 530;
+  left: 590;
+}
