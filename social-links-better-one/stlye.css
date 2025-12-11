@@ -1,0 +1,176 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+
+}
+
+.top {
+    background-color: hsl(0, 0%, 20%);
+    width: 400px;
+    height: 600px;
+    size: 300px;
+    position: relative;
+    position: absolute;
+    left: 570px;
+    top: 90px;
+    border-radius: 15px;
+    z-index: 1;
+}
+
+img {
+    position: absolute;
+    position: relative;
+    top: 120px;
+    left: 720px;
+    z-index: 2;
+    width: 100px;
+    border-radius: 100px;
+
+}
+
+.kiki {
+    position: absolute;
+    position: relative;
+    z-index: 3;
+    left: 660px;
+    top: 115px;
+    color: rgb(235, 229, 229);
+    font-family:sans-serif;
+    font-size: 25px;
+}
+
+.pak {
+    position: relative;
+    z-index: 4;
+    position: absolute;
+    left: 710px;
+    top: 265px;
+    color: hsl(75, 94%, 57%);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.try {
+    position: absolute;
+    position: relative;
+    z-index: 5;
+    left: 615px;
+    top: 130px;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+}
+
+.git {
+    background-color: hsl(0, 0%, 12%);
+    border: none;
+    color: whitesmoke;
+    width: 280px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    position: absolute;
+    z-index: 6;
+    top: 370px;
+    left: 620px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-bottom: 0;
+    transition: 0.20s;
+
+}
+
+.you {
+     background-color: hsl(0, 0%, 12%);
+    border: none;
+    color: whitesmoke;
+    width: 280px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    position: absolute;
+    z-index: 7;
+    top: 420px;
+    left: 620px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-bottom: 0;
+    transition: 0.20s;
+}
+
+.tt {
+     background-color: hsl(0, 0%, 12%);
+    border: none;
+    color: whitesmoke;
+    width: 280px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    position: absolute;
+    z-index: 8;
+    top: 470px;
+    left: 620px;
+    font-family:        Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    transition: 0.20s;
+
+}
+
+.X {
+     background-color: hsl(0, 0%, 12%);
+    border: none;
+    color: whitesmoke;
+    width: 280px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    position: absolute;
+    z-index: 9;
+    top: 520px;
+    left: 620px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    transition: 0.20s;
+}
+
+.git:hover {
+    cursor: pointer;
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.git:active {
+    opacity: 0.20;
+}
+
+.you:hover {
+    cursor: pointer;
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.you:active {
+    opacity: 0.20;
+}
+
+.tt:hover {
+    cursor: pointer;
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.tt:active {
+    opacity: 0.20;
+}
+
+.X:hover {
+
+    cursor: pointer;
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.X:active {
+    opacity: 0.20;
+}
