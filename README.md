@@ -4,3 +4,10 @@ My Web Development Journey
 Hi! I’m 15 (as of 2025) and I just started learning **HTML** and **CSS** a couple of days ago. To practice my skills, I built a **Link Tree clone** instead of just following tutorials—because I learn better by doing 😄.
 
 This repository will keep growing as I create more projects. I’ll update this README regularly to showcase my progress.
+
+Text Styling Practice Project
+=============================
+
+Hello! This project was made **2 days after my Link Tree clone**. I realized that my previous project lacked proper text styling, so I spent some time learning and practicing it.
+
+I’m still not great at it yet, but I’m improving little by little. This project is part of my journey to build better front-end skills.
