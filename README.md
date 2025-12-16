@@ -20,3 +20,17 @@ Alrighty! A lot has happened since I learned how to style text and work with **d
 In just 6 days of learning, I’ve picked up a lot, including **z-index** and **layering** in CSS. I’m really proud of how far I’ve come already.
 
 I’ll be taking a short break of around 2 days from coding.**Date:** 11/12/2025
+
+
+Recipe Card Project (Frontend Mentor)
+=====================================
+
+A lot happened during this time there was a wedding, so those “2 days off” turned into being pretty busy. About 3 days ago, while browsing **Frontend Mentor**, I came across a recipe card design and decided to build it.
+
+This project took me around **2 days**, along with all the wedding chaos 😅.
+
+This project really pushed me. It tested my **layout skills**, **text styling**, and **color theory**, and most importantly, I learned how to use **Flexbox (display: flex)**. I also realized that my earlier projects weren’t responsive and mostly worked only on my own device—but that’s okay. I don’t hide my mistakes; I learn from them.
+
+So far, this has been the **hardest and most important project** I’ve worked on. I didn’t watch any tutorials I just looked at the design and told myself, _“I can build this,”_ and I did. 💪
+
+Honestly, this project taught me more than any video ever could. I’m really proud of how far I’ve come in such a short time. It’s only been about **8 days** since I started learning web development **16/12/2025**.
