@@ -34,3 +34,15 @@ This project really pushed me. It tested my **layout skills**, **text styling**,
 So far, this has been the **hardest and most important project** I’ve worked on. I didn’t watch any tutorials I just looked at the design and told myself, _“I can build this,”_ and I did. 💪
 
 Honestly, this project taught me more than any video ever could. I’m really proud of how far I’ve come in such a short time. It’s only been about **8 days** since I started learning web development **16/12/2025**.
+
+
+JavaScript Number Counter Project
+=================================
+
+Hello everyone! I missed you all sorry for being gone for so long. I was sick and dealing with some family issues, and things got a bit chaotic.
+
+But I still managed to cook up something 👨‍🍳🔥I built a **number counter** with **increase**, **decrease**, and **reset** buttons using **JavaScript**, along with **HTML** and **CSS**.
+
+Last night, I watched a simple YouTube tutorial covering JavaScript basics like **variables**, **IDs**, **const**, and some basic math. Today, I felt the confidence and the itch to build something on my own, so I did.
+
+I’m far from perfect, but I’m learning step by step, and I’m really proud of myself for this one. We’re cooking slowly, but we’re definitely cooking. 💪 28/12/2025
