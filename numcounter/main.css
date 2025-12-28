@@ -1,0 +1,29 @@
+#counter {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#Buttons {
+    text-align: center;
+}
+
+.bb {
+    padding: 10px 20px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    background-color: rgb(111, 201, 207);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.15s;
+}
+
+.bb:hover {
+    opacity: 0.8;
+}
+
+.bb:active {
+    background-color: rgb(111, 154, 158);
+}
