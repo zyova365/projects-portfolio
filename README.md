@@ -46,3 +46,26 @@ But I still managed to cook up something 👨‍🍳🔥I built a **number count
 Last night, I watched a simple YouTube tutorial covering JavaScript basics like **variables**, **IDs**, **const**, and some basic math. Today, I felt the confidence and the itch to build something on my own, so I did.
 
 I’m far from perfect, but I’m learning step by step, and I’m really proud of myself for this one. We’re cooking slowly, but we’re definitely cooking. 💪 28/12/2025
+
+
+Number Guessing Game (JavaScript)
+=================================
+
+Today, I built a **number guessing game**. It’s not very pretty visually because I was fully focused on the **JavaScript logic** rather than the design but that’s okay. The UI is simple, but the JS is _top-notch for my current level_.
+
+In this project, I used:
+
+*   Math.random()
+    
+*   Storing values inside variables
+    
+*   Taking user input and converting it into a number
+    
+*   if / else conditions to check whether the guess was correct
+    
+
+The hardest part was figuring out how to take the input, convert it into a number, store it in a variable, and then compare it with the correct answer. I had to brainstorm **a lot**.
+
+Before starting this project, I made a promise to myself: **no Googling and no looking up solutions**. That’s why it felt so difficult maybe easy for others, but for me it was _hell_ 😅. I literally learned JavaScript basics just **one day ago**, so solving this on my own felt amazing.
+
+It was challenging, but honestly, it was also really fun.
