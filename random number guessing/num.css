@@ -1,0 +1,37 @@
+#tell {
+    text-align: center;
+    padding-top: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.put {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 15px;
+    border: none;
+
+}
+
+#put {
+    background-color: rgb(72, 159, 218);
+    color: whitesmoke;
+}
+
+input::placeholder, textarea::placeholder {
+  color: whitesmoke;
+}
+
+
+#button {
+    font-size: large;
+    border: none;
+    background-color: rgb(98, 184, 235);
+    color: aliceblue;
+    border-radius: 15px;
+    width: 100px;
+    height: 35px;
+
+}
